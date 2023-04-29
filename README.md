@@ -11,8 +11,9 @@ So here comes.
 * Rename a timer
 * Pause/Resume a timer
 * Log of each Pause/Resume session
+* Adjust accumulated time
 * Delete a timer
-* Hightlight running timer
+* Highlight running timer
 * Settings
   * default name of new timers
   * auto start new timer
